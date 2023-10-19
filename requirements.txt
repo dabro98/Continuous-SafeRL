@@ -1,0 +1,18 @@
+stable-baselines3
+Box2D==2.3.10
+gym==0.21
+numpy==1.22.3
+pygame==2.1.2
+pyglet==1.5.27
+tbparse
+
+
+# Baseline3 installed following version of gym (although no conflicts with BoxEnv)
+# Collecting gym==0.21
+
+# This version for pyglet is necessary in order to make .render() work
+# pip install pyglet==1.5.27 !!!!!
+
+# conda install -c conda-forge libstdcxx-ng
+
+# tensorboard, tensorflow

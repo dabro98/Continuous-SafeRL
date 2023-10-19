@@ -1,0 +1,1294 @@
+[
+    {
+        "valid": true,
+        "points": [
+            [
+                252.0,
+                2.0
+            ],
+            [
+                999.0,
+                21.0
+            ]
+        ],
+        "vertices": [
+            [
+                252.0,
+                2.0
+            ],
+            [
+                999.0,
+                2.0
+            ],
+            [
+                999.0,
+                21.0
+            ],
+            [
+                252.0,
+                21.0
+            ]
+        ],
+        "width": 747.0,
+        "height": 19.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                980.0,
+                23.0
+            ],
+            [
+                999.0,
+                799.0
+            ]
+        ],
+        "vertices": [
+            [
+                980.0,
+                23.0
+            ],
+            [
+                999.0,
+                23.0
+            ],
+            [
+                999.0,
+                799.0
+            ],
+            [
+                980.0,
+                799.0
+            ]
+        ],
+        "width": 19.0,
+        "height": 776.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                271.0,
+                23.0
+            ],
+            [
+                251.0,
+                799.0
+            ]
+        ],
+        "vertices": [
+            [
+                271.0,
+                23.0
+            ],
+            [
+                271.0,
+                799.0
+            ],
+            [
+                251.0,
+                799.0
+            ],
+            [
+                251.0,
+                23.0
+            ]
+        ],
+        "width": 20.0,
+        "height": 776.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                272.0,
+                783.0
+            ],
+            [
+                979.0,
+                799.0
+            ]
+        ],
+        "vertices": [
+            [
+                272.0,
+                783.0
+            ],
+            [
+                979.0,
+                783.0
+            ],
+            [
+                979.0,
+                799.0
+            ],
+            [
+                272.0,
+                799.0
+            ]
+        ],
+        "width": 707.0,
+        "height": 16.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                876.0,
+                51.0
+            ],
+            [
+                906.0,
+                116.0
+            ]
+        ],
+        "vertices": [
+            [
+                876.0,
+                51.0
+            ],
+            [
+                926.697265625,
+                86.13722229003906
+            ],
+            [
+                906.0,
+                116.0
+            ],
+            [
+                855.302734375,
+                80.86277770996094
+            ]
+        ],
+        "width": 61.6833610534668,
+        "height": 36.33403778076172,
+        "normal_plane": true,
+        "zero_angle": -0.532322511232846,
+        "angle": 0.6060660399915128,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            0,
+            125,
+            0,
+            255
+        ],
+        "physic": {
+            "type": 4,
+            "reward": 100.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 2,
+            "who": 0,
+            "when": 1,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                361.0,
+                329.0
+            ],
+            [
+                382.0,
+                474.0
+            ]
+        ],
+        "vertices": [
+            [
+                361.0,
+                329.0
+            ],
+            [
+                382.0,
+                329.0
+            ],
+            [
+                382.0,
+                474.0
+            ],
+            [
+                361.0,
+                474.0
+            ]
+        ],
+        "width": 21.0,
+        "height": 145.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                838.0,
+                469.0
+            ],
+            [
+                863.0,
+                593.0
+            ]
+        ],
+        "vertices": [
+            [
+                838.0,
+                469.0
+            ],
+            [
+                863.0,
+                469.0
+            ],
+            [
+                863.0,
+                593.0
+            ],
+            [
+                838.0,
+                593.0
+            ]
+        ],
+        "width": 25.0,
+        "height": 124.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                513.0,
+                92.0
+            ],
+            [
+                543.0,
+                236.0
+            ]
+        ],
+        "vertices": [
+            [
+                513.0,
+                92.0
+            ],
+            [
+                543.0,
+                92.0
+            ],
+            [
+                543.0,
+                236.0
+            ],
+            [
+                513.0,
+                236.0
+            ]
+        ],
+        "width": 30.0,
+        "height": 144.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                536.0,
+                352.0
+            ],
+            [
+                678.0,
+                383.0
+            ]
+        ],
+        "vertices": [
+            [
+                536.0,
+                352.0
+            ],
+            [
+                678.0,
+                352.0
+            ],
+            [
+                678.0,
+                383.0
+            ],
+            [
+                536.0,
+                383.0
+            ]
+        ],
+        "width": 142.0,
+        "height": 31.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                767.0,
+                233.0
+            ],
+            [
+                914.0,
+                269.0
+            ]
+        ],
+        "vertices": [
+            [
+                767.0,
+                233.0
+            ],
+            [
+                914.0,
+                233.0
+            ],
+            [
+                914.0,
+                269.0
+            ],
+            [
+                767.0,
+                269.0
+            ]
+        ],
+        "width": 147.0,
+        "height": 36.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                659.0,
+                52.0
+            ],
+            [
+                690.0,
+                131.0
+            ]
+        ],
+        "vertices": [
+            [
+                659.0,
+                52.0
+            ],
+            [
+                690.0,
+                52.0
+            ],
+            [
+                690.0,
+                131.0
+            ],
+            [
+                659.0,
+                131.0
+            ]
+        ],
+        "width": 31.0,
+        "height": 79.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                322.0,
+                147.0
+            ],
+            [
+                436.0,
+                185.0
+            ]
+        ],
+        "vertices": [
+            [
+                322.0,
+                147.0
+            ],
+            [
+                436.0,
+                147.0
+            ],
+            [
+                436.0,
+                185.0
+            ],
+            [
+                322.0,
+                185.0
+            ]
+        ],
+        "width": 114.0,
+        "height": 38.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                581.0,
+                558.0
+            ],
+            [
+                611.0,
+                695.0
+            ]
+        ],
+        "vertices": [
+            [
+                581.0,
+                558.0
+            ],
+            [
+                611.0,
+                558.0
+            ],
+            [
+                611.0,
+                695.0
+            ],
+            [
+                581.0,
+                695.0
+            ]
+        ],
+        "width": 30.0,
+        "height": 137.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                714.0,
+                683.0
+            ],
+            [
+                874.0,
+                719.0
+            ]
+        ],
+        "vertices": [
+            [
+                714.0,
+                683.0
+            ],
+            [
+                874.0,
+                683.0
+            ],
+            [
+                874.0,
+                719.0
+            ],
+            [
+                714.0,
+                719.0
+            ]
+        ],
+        "width": 160.0,
+        "height": 36.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                450.0,
+                317.0
+            ],
+            [
+                470.0,
+                383.0
+            ]
+        ],
+        "vertices": [
+            [
+                450.0,
+                317.0
+            ],
+            [
+                470.0,
+                317.0
+            ],
+            [
+                470.0,
+                383.0
+            ],
+            [
+                450.0,
+                383.0
+            ]
+        ],
+        "width": 20.0,
+        "height": 66.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                734.0,
+                484.0
+            ],
+            [
+                761.0,
+                563.0
+            ]
+        ],
+        "vertices": [
+            [
+                734.0,
+                484.0
+            ],
+            [
+                761.0,
+                484.0
+            ],
+            [
+                761.0,
+                563.0
+            ],
+            [
+                734.0,
+                563.0
+            ]
+        ],
+        "width": 27.0,
+        "height": 79.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                531.0,
+                441.0
+            ],
+            [
+                577.0,
+                481.0
+            ]
+        ],
+        "vertices": [
+            [
+                531.0,
+                441.0
+            ],
+            [
+                577.0,
+                441.0
+            ],
+            [
+                577.0,
+                481.0
+            ],
+            [
+                531.0,
+                481.0
+            ]
+        ],
+        "width": 46.0,
+        "height": 40.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                437.0,
+                537.0
+            ],
+            [
+                463.0,
+                615.0
+            ]
+        ],
+        "vertices": [
+            [
+                437.0,
+                537.0
+            ],
+            [
+                463.0,
+                537.0
+            ],
+            [
+                463.0,
+                615.0
+            ],
+            [
+                437.0,
+                615.0
+            ]
+        ],
+        "width": 26.0,
+        "height": 78.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    },
+    {
+        "valid": true,
+        "points": [
+            [
+                308.0,
+                749.0
+            ],
+            [
+                385.0,
+                770.0
+            ]
+        ],
+        "vertices": [
+            [
+                308.0,
+                749.0
+            ],
+            [
+                385.0,
+                749.0
+            ],
+            [
+                385.0,
+                770.0
+            ],
+            [
+                308.0,
+                770.0
+            ]
+        ],
+        "width": 77.0,
+        "height": 21.0,
+        "normal_plane": true,
+        "zero_angle": 0.0,
+        "angle": 0.0,
+        "moved": false,
+        "rotated": false,
+        "color": [
+            50,
+            50,
+            50,
+            255
+        ],
+        "physic": {
+            "type": 1,
+            "reward": -1.0,
+            "level": 0,
+            "lin_velocity": 10.0,
+            "lin_velocity_angle": 0.0,
+            "ang_velocity": 0.0,
+            "density": 1.0,
+            "inertia": 0.0,
+            "friction": 0.0,
+            "lin_damping": 0.0,
+            "ang_damping": 0.0
+        },
+        "physic_ix": 0,
+        "effect": {
+            "type": 5,
+            "who": 0,
+            "when": 0,
+            "param_0": 0.0,
+            "param_1": 0.0
+        },
+        "effect_ix": 0,
+        "param_group": 0,
+        "float_inc": 0.1
+    }
+]
